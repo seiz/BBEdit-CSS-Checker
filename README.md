@@ -7,18 +7,18 @@
   Version 1.0.1  
   Monday, 24 October 2005
 
-	Version 1.0.2
-	Thursday 12 Apr 2012 (Happy Birthday BBedit!)
+  Version 1.0.2  
+  Thursday 12 Apr 2012 (Happy Birthday BBedit!)
 
 
 What's new in 1.0.2
 -------------------
 
-Perl Scripts are no longer hidden in the BBedit Script Menu, so "CSS Syntax Check.pl" 
+* Perl Scripts are no longer hidden in the BBedit Script Menu, so "CSS Syntax Check.pl" 
 was renamed to "zz)CSS Syntax Check Helper.pl" to better distinguish the actual 
 AppleScript you'd use. This rename is reflected in the installation notes below.
 
-Adjusted the scripts so they work in BBedit Project Windows and support the newer 
+* Adjusted the scripts so they work in BBedit Project Windows and support the newer 
 W3C Validator results format.
 
 
